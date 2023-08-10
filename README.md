@@ -1,8 +1,7 @@
 # lp0108-1209mycopy
 my copy seminar c#
 
-Home work:
-task02
-task04HW
-task06HW
-task08
+Home work 2:
+task010HW
+task013HW
+task015HW
